@@ -1,0 +1,45 @@
+.header-container {
+  background-color: #2c364c;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 25px 5px 25px;
+}
+
+.unordered-links {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.each-link {
+  margin-right: 25px;
+}
+
+.website-logo-in-header {
+  height: 30px;
+  width: 120px;
+}
+
+.custom-link-styles {
+  color: #fff;
+  text-decoration: none;
+}
+
+.logout-button {
+  background-color: #6366f1;
+  color: #fff;
+  padding: 7px 10px 10px 10px;
+  border: 0;
+  border-radius: 6px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+}

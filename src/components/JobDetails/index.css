@@ -1,0 +1,154 @@
+.job-detail-container {
+  background-color: #202020;
+  padding: 40px;
+  border: 0;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.description-heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visit-link {
+  text-decoration: none;
+  color: #4f46e5;
+}
+
+.job-detail-container-background {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 60px;
+}
+
+.job-detail-intro-container {
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+}
+
+.job-detail-company-logo {
+  height: 65px;
+  width: 65px;
+}
+
+.job-detail-intro-heading-container {
+  margin-left: 10px;
+  align-self: flex-start;
+}
+
+.job-detail-intro-heading {
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  margin: 0;
+}
+
+.job-detail-intro-rating-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #fff;
+}
+
+.star {
+  color: #fbbf24;
+  margin-right: 5px;
+}
+
+.location-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.extra-spacing {
+  margin: 5px 0 5px 0;
+}
+
+.description {
+  color: #fff;
+}
+
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: #fff;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.skill-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 300px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+}
+
+.loader-container-job-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000;
+  color: #fff;
+}
+
+.life-at-company-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.life-at-company-container-para {
+  color: #fff;
+  width: 60%;
+}
+
+.life-at-company-container-image {
+  border: 0;
+  border-radius: 10px;
+  width: 30%;
+  height: 210px;
+}
+
+.similar-jobs-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 0;
+  padding-left: 0;
+  color: #fff;
+}
+
+.similar-job-item {
+  background-color: #202020;
+  width: 320px;
+  height: 420px;
+  padding: 20px;
+  border: 0;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.link-jobs {
+  color: #fff;
+  text-decoration: none;
+}
