@@ -1,4 +1,10 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+PUBLISHED ON https://jobsapp.ccbp.tech/
+credentials to login: username: rahul, pswd: rahul@2021
+"try to enter wrong creds for failure views and error msgs to"
+
+
+
+In this project, I build a **Jobby App**.
 
 ### Refer to videos below:
 
